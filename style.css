@@ -1,0 +1,8 @@
+html {
+    background-color: #fec56d;
+}
+
+#menu a:link {
+    color: none;
+    text-decoration: none;
+}
